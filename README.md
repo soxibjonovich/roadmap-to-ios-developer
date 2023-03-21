@@ -1,5 +1,5 @@
 Roadmap to IOS developer
-￼
+![Development](https://user-images.githubusercontent.com/128493258/226629234-ac9de9f6-aabc-4a08-a7f3-35a2e52c9757.png)
 
 1 - Базовые знания
 * Фундаментальные типы данных и операции с ними
